@@ -12,3 +12,10 @@ I've forked. Please merge!
 * Example 3 — Community ethic
 
 We can use the terminal, or GitHub for Mac, or GitHub for Windows.
+
+Open Law
+--------
+
+* I keep sending Congress my Pull Requests, but they keep closing them without comment.
+
+
