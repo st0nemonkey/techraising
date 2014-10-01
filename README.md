@@ -1,4 +1,4 @@
-techraising
+TechRaising
 ===========
 
 Demo for a presentation.
