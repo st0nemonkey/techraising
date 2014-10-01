@@ -1,4 +1,4 @@
 techraising
 ===========
 
-DEmo
+Demo for a presentation.
